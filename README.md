@@ -1,6 +1,11 @@
 # movie_app
 
-A new Flutter project.
+A new Flutter project. <br>
+
+Movie app for Dicoding course "Belajar Membuat Aplikasi Flutter untuk Pemula" final submission. <br>
+<img src="https://github.com/alfiyahqz/movie_app/blob/master/movie_home.jpg" width = "200">
+<img src="https://github.com/alfiyahqz/movie_app/blob/master/movie_detail.jpg" width = "200">
+
 
 ## Getting Started
 
